@@ -16,7 +16,7 @@ This application calculates two numbers and returns its result.
 
 ### Environment
 - - - -
-**iOS version** 		10.2
+**iOS version** 	10.2       
 **Xcode version** 	8.2.1
 
 ### License
